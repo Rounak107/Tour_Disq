@@ -8,19 +8,13 @@
 
 <img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/login.png" alt="project-screenshot" width="700" height="400/">
 
-<img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/func.png" alt="project-screenshot" width="700" height="400/">
-
 <img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/all%20posts.png" alt="project-screenshot" width="700" height="400/">
 
 <img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/add.png" alt="project-screenshot" width="700" height="400/">
 
-<img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/search.png" alt="project-screenshot" width="700" height="400/">
-
 <img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/info.png" alt="project-screenshot" width="700" height="400/">
 
 <img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/community.png" alt="project-screenshot" width="700" height="400/">
-
-<img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/comments.png" alt="project-screenshot" width="700" height="400/">
 
   
   
